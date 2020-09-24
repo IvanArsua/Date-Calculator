@@ -24,5 +24,18 @@ namespace IvanArsua.DateCalculator
         {
             InitializeComponent();
         }
+
+        private void btnCalculate_Click(object sender, RoutedEventArgs e)
+        {
+            DateTime birthday = DateTime.Parse(dtBirthday.Text);
+            DateTime now = DateTime.Now;
+            string bday = birthday.Day + "/" + birthday.Month + "/2021";
+
+            DateTime nextBirthday2021 = DateTime.Parse(bday);
+            MessageBox.Show(bday);
+
+            double days = (nextBirthday2021 - now).TotalDays;
+            MessageBox.Show(days.ToString());
+        }
     }
 }

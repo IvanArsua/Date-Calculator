@@ -1,0 +1,15 @@
+C:\Users\Dell\Documents\Major-ICT Activties\Activity 2\IvanArsua.DateCalculator\bin\Debug\IvanArsua.DateCalculator.exe.config
+C:\Users\Dell\Documents\Major-ICT Activties\Activity 2\IvanArsua.DateCalculator\bin\Debug\IvanArsua.DateCalculator.exe
+C:\Users\Dell\Documents\Major-ICT Activties\Activity 2\IvanArsua.DateCalculator\bin\Debug\IvanArsua.DateCalculator.pdb
+C:\Users\Dell\Documents\Major-ICT Activties\Activity 2\IvanArsua.DateCalculator\obj\Debug\IvanArsua.DateCalculator.csprojAssemblyReference.cache
+C:\Users\Dell\Documents\Major-ICT Activties\Activity 2\IvanArsua.DateCalculator\obj\Debug\MainWindow.g.cs
+C:\Users\Dell\Documents\Major-ICT Activties\Activity 2\IvanArsua.DateCalculator\obj\Debug\App.g.cs
+C:\Users\Dell\Documents\Major-ICT Activties\Activity 2\IvanArsua.DateCalculator\obj\Debug\IvanArsua.DateCalculator_MarkupCompile.cache
+C:\Users\Dell\Documents\Major-ICT Activties\Activity 2\IvanArsua.DateCalculator\obj\Debug\IvanArsua.DateCalculator_MarkupCompile.lref
+C:\Users\Dell\Documents\Major-ICT Activties\Activity 2\IvanArsua.DateCalculator\obj\Debug\MainWindow.baml
+C:\Users\Dell\Documents\Major-ICT Activties\Activity 2\IvanArsua.DateCalculator\obj\Debug\IvanArsua.DateCalculator.g.resources
+C:\Users\Dell\Documents\Major-ICT Activties\Activity 2\IvanArsua.DateCalculator\obj\Debug\IvanArsua.DateCalculator.Properties.Resources.resources
+C:\Users\Dell\Documents\Major-ICT Activties\Activity 2\IvanArsua.DateCalculator\obj\Debug\IvanArsua.DateCalculator.csproj.GenerateResource.cache
+C:\Users\Dell\Documents\Major-ICT Activties\Activity 2\IvanArsua.DateCalculator\obj\Debug\IvanArsua.DateCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Documents\Major-ICT Activties\Activity 2\IvanArsua.DateCalculator\obj\Debug\IvanArsua.DateCalculator.exe
+C:\Users\Dell\Documents\Major-ICT Activties\Activity 2\IvanArsua.DateCalculator\obj\Debug\IvanArsua.DateCalculator.pdb

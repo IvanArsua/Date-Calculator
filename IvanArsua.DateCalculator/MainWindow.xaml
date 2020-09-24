@@ -5,9 +5,10 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:IvanArsua.DateCalculator"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="290">
     <Grid>
         <DatePicker x:Name="dtBirthday" HorizontalAlignment="Left" Height="30" Margin="52,40,0,0" VerticalAlignment="Top" Width="192"/>
+        <Button x:Name="btnCalculate" Content="Click Me" HorizontalAlignment="Left" Height="32" Margin="126,88,0,0" VerticalAlignment="Top" Width="118" Click="btnCalculate_Click"/>
 
     </Grid>
 </Window>
