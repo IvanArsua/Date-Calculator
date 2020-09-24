@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Runtime.Remoting.Metadata.W3cXsd2001;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
@@ -36,6 +37,10 @@ namespace IvanArsua.DateCalculator
 
             double days = (nextBirthday2021 - now).TotalDays;
             MessageBox.Show(days.ToString());
+
+            var Days = (nextBirthday2021 - now).TotalDays;
+            lblDays.Content = "You are " + days + " days old";
         }
+        
     }
 }
